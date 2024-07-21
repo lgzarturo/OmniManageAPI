@@ -1,0 +1,47 @@
+#
+# OmniManageAPI
+#
+# Este código está bajo la Licencia Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+#
+# Puedes descargar y utilizar este proyecto para fines académicos siempre y cuando se mantenga el crédito adecuado.
+#
+# No se permite modificar, transformar, o construir a partir de este trabajo, ni utilizarlo para fines comerciales.
+#
+# Para más detalles sobre la licencia, consulta el archivo LICENSE.md en el repositorio del proyecto.
+#
+# © 2024 Arturo Lopez Gomez (lgzarturo@gmail.com)
+#
+
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
