@@ -12,7 +12,7 @@ Este proyecto está bajo la **Licencia Creative Commons Attribution-NonCommercia
 - Distribuir el proyecto para fines comerciales.
 - Reutilizar partes del código en otros proyectos de índole personal o comercial.
 
-Para más detalles sobre la licencia, consulta el archivo [LICENSE](LICENSE) en este repositorio.
+Para más detalles sobre la licencia, consulta el archivo [LICENSE.md](LICENSE.md) en este repositorio.
 
 ## Cómo Contribuir
 
